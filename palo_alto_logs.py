@@ -8,8 +8,8 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # Konfiguracja Palo Alto
-PA_IP = "192.168.10.7"
-API_KEY = "LUFRPT1XSFd4MUxLNWloNy80UGdPSEppVFJwYTI1WXM9dEFTUEs3eHdZcHgybFg3dmNnMzVTZEZIbEk2YWNqQ2NuVzFZYXZFV2N2dFJzM2FNbms1ZWtDbzk0V3l2UEVhSHB0emVSelNWRk53R05JWlQxWTdsdnc9PQ=="
+PA_IP = "Adres IP"
+API_KEY = "Wygenerowany API KEY"
 BASE_URL = f"https://{PA_IP}/api/"
 
 
